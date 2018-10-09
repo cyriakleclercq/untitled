@@ -1,0 +1,72 @@
+#cadre1 {
+    font-size: 1vw;
+
+}
+
+#coordonnées {
+    float: left;
+}
+
+#photo {
+    height: 200px;
+    width: 200px;
+    background-image: url("bonhomme-blanc-3d-images-gratuites-libres-de-droits22-1560x1169.jpg");
+    float: right;
+    right: 100px;
+    top: 50px;
+    background-size: 130%;
+}
+
+#titre1 {
+    text-align: left;
+    clear: both;
+    margin-bottom: 45px;
+}
+ #cadrexp {
+     float: right;
+ }
+
+ #datexp {
+     float: left;
+     width: 50%;
+ }
+
+ #titre2 {
+     text-align: left;
+     clear: both;
+ }
+
+
+ #xppro {
+     float: right;
+     width: 45%;
+ }
+
+ #datexppro {
+     float: left;
+     width: 45%;
+ }
+
+ #titre3 {
+     text-align: left;
+     clear: both;
+ }
+
+#twitter {
+    height: 50px;
+    width: 50px;
+}
+
+#linkedin {
+    height: 50px;
+    width: 50px;
+}
+
+
+#github {
+    height: 50px;
+    width: 50px;
+}
+
+
+
