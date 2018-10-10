@@ -1,5 +1,7 @@
 #cadre1 {
     font-size: 1vw;
+    margin-left: 10%;
+    margin-right: 10%;
 
 }
 
@@ -21,6 +23,7 @@
     text-align: left;
     clear: both;
     margin-bottom: 45px;
+    padding-top: 45px;
 }
  #cadrexp {
      float: right;
@@ -28,12 +31,13 @@
 
  #datexp {
      float: left;
-     width: 50%;
  }
 
  #titre2 {
      text-align: left;
      clear: both;
+     margin-bottom: 45px;
+     padding-top: 45px;
  }
 
 
@@ -50,6 +54,8 @@
  #titre3 {
      text-align: left;
      clear: both;
+     margin-bottom: 45px;
+     padding-top: 45px;
  }
 
 #twitter {
